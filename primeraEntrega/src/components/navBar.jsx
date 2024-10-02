@@ -9,9 +9,13 @@ const navBar = () => {
       <li><a href="#home">home</a></li>
       <li><a href="#contact">Contact</a></li>
       <li><a href="#products">products</a></li>
+      <CartWidget/>
+
+z
     </ul>
    
   )
 }
 
 export default navBar
+
